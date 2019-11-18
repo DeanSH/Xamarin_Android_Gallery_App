@@ -1,0 +1,6 @@
+android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+color;obj\Debug\90\res\values\styles.xml
+item;obj\Debug\90\res\values\styles.xml
+resources;obj\Debug\90\res\values\styles.xml
+style;obj\Debug\90\res\values\styles.xml

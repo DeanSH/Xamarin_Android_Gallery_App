@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{224FD5DB-843A-46C8-B758-BA9CCD6BE63D}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>App5_2018</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)App.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\clsPageUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)clsUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\pgMainController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\pgWorkController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ctrSculpture.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ctrPaintPhoto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\IWorkControl.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\pgArtist.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\pgArtistController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\pgMain.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\pgWork.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ServiceClient.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Controllers\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Views\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,47 @@
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\Gallery3SelfHost.exe.config
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\Gallery3SelfHost.exe
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\Gallery3SelfHost.pdb
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\System.Web.Http.dll
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\System.Web.Http.xml
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\obj\Debug\Gallery3SelfHost.csprojResolveAssemblyReference.cache
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\obj\Debug\Gallery3SelfHost.exe
+C:\Users\macbook\Desktop\SDV\ClassTutorial3-master\Gallery 3\Gallery3SelfHost\obj\Debug\Gallery3SelfHost.pdb
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\ClassTutorial3-master-finished\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\Gallery3SelfHost.exe.config
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\ClassTutorial3-master-finished\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\obj\Debug\Gallery3SelfHost.exe
+C:\Users\I-Love-Dean\Documents\NMIT Stuff\2018 s1\SDV701\ClassTutorial3-master-finished\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\obj\Debug\Gallery3SelfHost.pdb
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\Gallery3SelfHost.exe.config
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\Gallery3SelfHost.exe
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\Gallery3SelfHost.pdb
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\System.Web.Http.dll
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\System.Web.Http.xml
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\obj\Debug\Gallery3SelfHost.csprojAssemblyReference.cache
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\obj\Debug\Gallery3SelfHost.csproj.CopyComplete
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\obj\Debug\Gallery3SelfHost.exe
+C:\Users\R4\Desktop\SDV7\ClassTutorial3-master-finished\Gallery 3\Gallery3SelfHost\obj\Debug\Gallery3SelfHost.pdb
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\Gallery3SelfHost.exe.config
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\Gallery3SelfHost.exe
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\Gallery3SelfHost.pdb
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\System.Web.Http.dll
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\System.Web.Http.xml
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\obj\Debug\Gallery3SelfHost.csprojAssemblyReference.cache
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\obj\Debug\Gallery3SelfHost.csproj.CopyComplete
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\obj\Debug\Gallery3SelfHost.exe
+C:\Users\R4\Desktop\Xamarin_Android_Gallery_App\SelfHostApiServer\SelfHostApiServer\obj\Debug\Gallery3SelfHost.pdb
