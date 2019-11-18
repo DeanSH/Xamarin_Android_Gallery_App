@@ -22,12 +22,15 @@ Now save the changes to the Solution.
 Before the Self Host API Server can successfully run error free, you need to enable the port access for your computer and user logged in with using CMD or PowerShell to execute these commands:
 
 -> whoami
+
 This will give your computer-name\user-name for the system your using the Self Host API server on! Next run...
 
 -> netsh http add urlacl url=http://+:PPPPP/ user=computer-name\user-name
+
 This will allow the Self Host API server to listen and accept connections for the specified PORT (PPPPP) and Computer/Username! So be sure to replace the PPPPP with the desired port (currently port 60064 for this example) and the computer-name\user-name you got from running whoiam.
 
 Eg -> netsh http add urlacl url=http://+:60064/ user=deans-pc\r4
+
 It should work fine and say it was successful!!
 
 Lastly, before you can run and test the Self Host API server, you should goto the Gallery_Data data connection inside the Server Explorer window of VS, and right click it and close connection if active, this will prevent any connection error inside the Self Host API Server when it trys to access the MDF file in response to API calls from the Android App.
